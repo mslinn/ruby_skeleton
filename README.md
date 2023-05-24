@@ -1,7 +1,7 @@
 # Ruby Skeleton
 
 Template for new Ruby projects that won't become gems.
-My Ruby templates:
+My Ruby templates are:
 
   - [Ruby Skeleton](https://github.com/mslinn/ruby_skeleton)
   - [Jekyll Template](https://github.com/mslinn/jekyllTemplate)
@@ -10,8 +10,8 @@ My Ruby templates:
 
 # Getting started
 
-```
-$ bundle install
+```shell
+$ bundle
 
 $ ruby main.rb
 ````
