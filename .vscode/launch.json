@@ -5,11 +5,10 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "cwd": "${workspaceRoot}",
       "name": "Debug main.rb",
       "program": "${workspaceRoot}/main.rb",
       "request": "launch",
-      "type": "Ruby",
+      "type": "rdbg",
     }
   ]
 }
