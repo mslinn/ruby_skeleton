@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 group :test, :development do
-  gem 'debase', '0.2.5.beta2', require: false
+  gem 'debug', '>= 1.0.0', require: false
   gem 'rake', require: false
   gem 'rspec', require: false
   gem 'rubocop', require: false
